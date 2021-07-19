@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am Samipan Bandyopadhyay from India and I am a Fullstack Web Developer! 
+Hi, I am Samipan Banerjee from India and I am a Fullstack Web Developer! 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NexusX45&hide=contribs,prs)
 
