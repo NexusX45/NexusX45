@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hi, I am Samipan Bandyopadhyay from India and I am a Fullstack Web Developer! 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NexusX45&hide=contribs,prs)
+
+
 <!--
 **NexusX45/NexusX45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
