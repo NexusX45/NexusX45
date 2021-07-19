@@ -2,7 +2,7 @@
 
 I am Samipan from India and I am a Fullstack Web Developer! I love working with new technologies and frameworks. Learning something new always excites me and welcome to my github profile.
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NexusX45&hide=contribs,prs)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NexusX45)
 
 
 <!--
