@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Samipan Banerjee</h1>
+<h1>Hi 👋, I'm Samipan Bandyopadhyay</h1>
 <h3>A Passionate Fullstack Developer from India</h3>
 <h4>Love working with new technologies. Learning something new always excites me.</h4>
 
